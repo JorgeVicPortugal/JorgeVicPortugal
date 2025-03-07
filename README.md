@@ -1,10 +1,13 @@
-# Hi, i´m Jorge Portugal👋
+# Eu sou o Jorge Portugal👋
 
 
 
 
 ## 🚀 Sobre mim
-Sou uma pessoa determinada, insistente e perseverante. Acredito que a persistência é a chave para alcançar meus objetivos. Tenho empatia pelos outros e valorizo a amizade. Sempre estou disposto a ajudar e apoiar aqueles ao meu redor. Além disso, estou estudando programação Java e me preparando para a certificação AWS Certified Solutions Architect
+Sou uma pessoa determinada, insistente e perseverante. Acredito que a persistência é a chave para alcançar meus objetivos. Tenho empatia pelos outros e valorizo a amizade. Sempre estou disposto a ajudar e apoiar aqueles ao meu redor. Além disso, estou estudando programação Java e me preparando para a certificação AWS Certified Solutions Architect;
+
+## 🚀 About Me
+I am a determined, persistent, and resilient individual. I believe perseverance is the key to achieving my goals. I have empathy for others and value friendship. I am always willing to help and support those around me. Additionally, I am currently studying Java programming and preparing for the AWS Certified Solutions Architect certification.
 
 ## 🔗 Links
 
