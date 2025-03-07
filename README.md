@@ -1,3 +1,5 @@
+
+
 ## 🚀 Olá, eu sou o Jorge Portugal ! 👋
 Sobre Mim / About Me
 <table>
@@ -14,6 +16,8 @@ Sobre Mim / About Me
 </td>
 </tr>
 </table>
+
+
 
 
 ## 🔗 Links Úteis / Useful Links
@@ -41,21 +45,15 @@ Sobre Mim / About Me
 <li>Java</li>
 <li>Computação em nuvem (AWS)</li>
 <li>Arquitetura de Soluções em Nuvem</li>
+<li>Java (POO, Padrões de Projeto, Multithreading)</li>
+<li>AWS (S3, EC2, Lambda) - Certificação em andamento!</li>
 <li>Resolução de Problemas</li>
 <li>Trabalho em Equipe</li>
 </ul>
 </td>
-<td width="50%">
-<ul>
-<li>Java</li>
-<li>Computação em nuvem (AWS)</li>
-<li>Arquitetura de soluções em nuvem</li>
-<li>Resolução de problemas</li>
-<li>Colaboração em equipe</li>
-</ul>
-</td>
-</tr>
-</
+</tabela>
+
+
 
 
 
